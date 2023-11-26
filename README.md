@@ -1,4 +1,4 @@
-
+# Expolore App Tasarım Denememe Hoşgeldin !
 
 Merhaba, derste gösterdiğiniz explore app tasarımını kendim denedim.
 
